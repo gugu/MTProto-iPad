@@ -1,0 +1,1 @@
+/Users/gugu/Downloads/telegram_iphone.src/Telegraph/Build/Intermediates/ArchiveIntermediates/Telegraph/InstallationBuildProductsLocation/Applications/MTProto iPad.app

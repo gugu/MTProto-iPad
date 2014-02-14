@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGSecurity.m \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGSecurity.h \
+  Telegraph/thirdparty/openssl/openssl/bn.h \
+  Telegraph/thirdparty/openssl/openssl/e_os2.h \
+  Telegraph/thirdparty/openssl/openssl/opensslconf.h \
+  Telegraph/thirdparty/openssl/openssl/ossl_typ.h \
+  Telegraph/thirdparty/openssl/openssl/crypto.h \
+  Telegraph/thirdparty/openssl/openssl/stack.h \
+  Telegraph/thirdparty/openssl/openssl/safestack.h \
+  Telegraph/thirdparty/openssl/openssl/opensslv.h \
+  Telegraph/thirdparty/openssl/openssl/symhacks.h \
+  Telegraph/thirdparty/openssl/openssl/rsa.h \
+  Telegraph/thirdparty/openssl/openssl/asn1.h \
+  Telegraph/thirdparty/openssl/openssl/bio.h \
+  Telegraph/thirdparty/openssl/openssl/evp.h \
+  Telegraph/thirdparty/openssl/openssl/objects.h \
+  Telegraph/thirdparty/openssl/openssl/obj_mac.h \
+  Telegraph/thirdparty/openssl/openssl/pem.h \
+  Telegraph/thirdparty/openssl/openssl/x509.h \
+  Telegraph/thirdparty/openssl/openssl/buffer.h \
+  Telegraph/thirdparty/openssl/openssl/ec.h \
+  Telegraph/thirdparty/openssl/openssl/ecdsa.h \
+  Telegraph/thirdparty/openssl/openssl/ecdh.h \
+  Telegraph/thirdparty/openssl/openssl/dsa.h \
+  Telegraph/thirdparty/openssl/openssl/dh.h \
+  Telegraph/thirdparty/openssl/openssl/sha.h \
+  Telegraph/thirdparty/openssl/openssl/x509_vfy.h \
+  Telegraph/thirdparty/openssl/openssl/lhash.h \
+  Telegraph/thirdparty/openssl/openssl/pkcs7.h \
+  Telegraph/thirdparty/openssl/openssl/pem2.h \
+  Telegraph/thirdparty/openssl/openssl/err.h \
+  Telegraph/thirdparty/openssl/openssl/aes.h \
+  ../TelegraphKit/TelegraphKit/TGStringUtils.h

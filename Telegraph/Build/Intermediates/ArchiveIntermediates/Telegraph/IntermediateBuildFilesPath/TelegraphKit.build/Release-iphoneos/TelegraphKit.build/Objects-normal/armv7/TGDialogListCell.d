@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGDialogListCell.m \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGDialogListCell.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGDialogListCellAssetsSource.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/ASWatcher.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/ASHandle.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/SGraphNode.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGMessage.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGActionMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGImageMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGImageInfo.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGLocationMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGLocalMessageMetaMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGVideoMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGVideoInfo.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGContactMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGForwardedMessageMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGUnsupportedMediaAttachment.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGDateUtils.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGHighlightImageView.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGReusableLabel.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGReusableView.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGHighlightTriggerLabel.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGLabel.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGViewRecycler.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGRemoteImageView.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/ActionStage.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/ASActor.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGTimer.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGCache.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGImageUtils.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGUser.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGDateLabel.h \
+  /Users/gugu/Downloads/telegram_iphone.src/TelegraphKit/TelegraphKit/TGSwipeGestureRecognizer.h

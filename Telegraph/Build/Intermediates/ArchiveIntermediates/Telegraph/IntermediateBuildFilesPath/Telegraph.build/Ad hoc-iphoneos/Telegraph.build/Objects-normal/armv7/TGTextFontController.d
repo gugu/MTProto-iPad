@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGTextFontController.m \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGTextFontController.h \
+  ../TelegraphKit/TelegraphKit/TGViewController.h \
+  ../TelegraphKit/TelegraphKit/TGToolbarButton.h \
+  ../TelegraphKit/TelegraphKit/TGNavigationController.h \
+  ../TelegraphKit/TelegraphKit/TGGestureNavigationController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGInterfaceAssets.h \
+  ../TelegraphKit/TelegraphKit/TGDialogListCellAssetsSource.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGActionMenuItemCell.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGGroupedCell.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGAppDelegate.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGMainTabsController.h \
+  ../TelegraphKit/TelegraphKit/TGDialogListController.h \
+  ../TelegraphKit/TelegraphKit/ActionStage.h \
+  ../TelegraphKit/TelegraphKit/ASWatcher.h \
+  ../TelegraphKit/TelegraphKit/ASHandle.h \
+  ../TelegraphKit/TelegraphKit/SGraphNode.h \
+  ../TelegraphKit/TelegraphKit/ASActor.h \
+  ../TelegraphKit/TelegraphKit/TGTimer.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGContactsController.h \
+  ../TelegraphKit/TelegraphKit/TGUser.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGAddContactsController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGTimelineController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGProfileController.h \
+  ../TelegraphKit/TelegraphKit/TGPhonebookContact.h \
+  ../TelegraphKit/TelegraphKit/TGAppManager.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGTelegraphConversationMessageAssetsSource.h \
+  ../TelegraphKit/TelegraphKit/TGConversationMessageAssetsSource.h

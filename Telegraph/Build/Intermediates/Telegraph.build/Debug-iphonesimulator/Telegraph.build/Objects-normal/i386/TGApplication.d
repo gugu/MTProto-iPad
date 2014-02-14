@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGApplication.m \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGApplication.h \
+  ../TelegraphKit/TelegraphKit/TGAppManager.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGAppDelegate.h \
+  ../TelegraphKit/TelegraphKit/TGNavigationController.h \
+  ../TelegraphKit/TelegraphKit/TGGestureNavigationController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGMainTabsController.h \
+  ../TelegraphKit/TelegraphKit/TGViewController.h \
+  ../TelegraphKit/TelegraphKit/TGDialogListController.h \
+  ../TelegraphKit/TelegraphKit/ActionStage.h \
+  ../TelegraphKit/TelegraphKit/ASWatcher.h \
+  ../TelegraphKit/TelegraphKit/ASHandle.h \
+  ../TelegraphKit/TelegraphKit/SGraphNode.h \
+  ../TelegraphKit/TelegraphKit/ASActor.h \
+  ../TelegraphKit/TelegraphKit/TGTimer.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGContactsController.h \
+  ../TelegraphKit/TelegraphKit/TGUser.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGAddContactsController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGTimelineController.h \
+  /Users/gugu/Downloads/telegram_iphone.src/Telegraph/Telegraph/TGProfileController.h \
+  ../TelegraphKit/TelegraphKit/TGPhonebookContact.h \
+  ../TelegraphKit/TelegraphKit/TGWebController.h \
+  ../TelegraphKit/TelegraphKit/TGHacks.h
